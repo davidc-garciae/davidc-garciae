@@ -39,7 +39,7 @@ Currently, I'm working as Systems Engineer in Colombia 🇨🇴, balancing code 
 ## 🎓 Education
 
 - **University of Antioquia** — Systems Engineering (2023 - 2025)
-- - **University of Antioquia** — Electrical Engineering (2018 - 2022)
+- **University of Antioquia** — Electrical Engineering (2018 - 2022)
 
 ---
 
