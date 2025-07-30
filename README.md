@@ -7,7 +7,7 @@
 
 I'm a passionate Full-Stack Developer focused on building scalable architectures, clean code, and expressive interfaces. I have experience in Java, C#, Python, and JavaScript (with a soft spot for TypeScript). I enjoy crafting robust backends and dynamic frontends.
 
-Currently, I'm studying Systems Engineering in Colombia 🇨🇴, balancing code reviews, composing music, and occasionally have free time to play or join community projects.
+Currently, I'm working as Systems Engineer in Colombia 🇨🇴, balancing code reviews, composing music, and occasionally have free time to play or join community projects.
 
 ---
 
@@ -32,13 +32,13 @@ Currently, I'm studying Systems Engineering in Colombia 🇨🇴, balancing code
 
 ## 🌟 Featured Projects
 
-- [CurriculumVitae](https://david-camilo-garcia-echavarria.vercel.app) — Online CV built and deployed with Vercel
+- [My Website!](https://recodery.vercel.app) — Online CV built and deployed with Vercel
 
 ---
 
 ## 🎓 Education
 
-- **University of Antioquia** — Systems Engineering (2023 - Present)
+- **University of Antioquia** — Systems Engineering (2023 - 2025)
 
 ---
 
