@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David García
 
-🎯 _Full-Stack Developer | Systems Engineering Student | Creative Technologist_
+🎯 _Full-Stack Developer | Systems Engineer | Creative Technologist_
 <img src="silhouette.png" alt="David García" width="300" align="right" style="margin-left: -60px; float: right;" />
 
 ## 🚀 About Me
