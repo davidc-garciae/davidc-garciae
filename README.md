@@ -9,8 +9,9 @@ I'm a passionate Full-Stack Developer focused on building scalable architectures
 
 Currently, I'm working as Systems Engineer in Colombia 🇨🇴, balancing code reviews, composing music, and occasionally have free time to play or join community projects.
 
-Professional GitLab Acc: https://gitlab.com/david.garciae
-
+Professional Git Accounts: 
+  - https://gitlab.com/david.garciae
+  - https://github.com/David-Echavarria_usups
 ---
 
 ## 🧑‍💻 Professional Summary
